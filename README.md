@@ -1,8 +1,6 @@
 MVC Bootstrap 3.x Admin Kickoff project
 ==============================
 
-Details:
-
 * An admin theme built with [Bootstrap 3.x](http://getbootstrap.com).  
 * Free for personal and commercial use
 * Inspired by and based on [Meritoo's Bootstrap-Admin-Theme](https://github.com/meritoo/Bootstrap-3-Admin-Theme)
